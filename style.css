@@ -69,3 +69,20 @@
 }
 
 
+@media only screen and (max-width: 600px) {
+    .quote-block {
+        width: 80%;
+        padding: 1rem;
+    }
+    .quote-block span svg {
+        height: 40%;
+        width: 40%;
+    }
+    .quote {
+        font-size: 1.5rem;
+    }
+    
+    .author {
+        font-size: 1.15rem;
+    }
+  }
